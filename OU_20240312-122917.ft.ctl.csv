@@ -1,0 +1,36 @@
+﻿Desktop_Software_Build_Version,1.7
+Number_Of_Stations,,19
+Start_Time,,2024-03-12 16:02:07Z
+End_Time,,2024-03-12 16:29:17Z
+Local_Time_UTC_Offset_Hours,,-4.0000
+Handheld_Serial_Number,,FT2H2119002
+Handheld_CPU_Serial_Number,,6655268
+Handheld_Boards_Info,,n/a
+Handheld_Software_Version,,1.6.4
+Handheld_Operating_System,,Microsoft Windows CE 6.0.0/.NET 3.5.10010.0
+Wading Rod,,TopSetting
+ADV_System_Frequency,Hz,10000000.00
+ADV_Serial_Number,,FT2P2111007
+ADV_Firmware_Version,,1.30
+ADV_Number_Of_Beams,,2
+ADV_Noise_Level,cnts,725,701,NaN
+ADV_Peak_Position,m,0.117,0.117,NaN
+ADV_Peak_Level,dB,36.194,36.306,NaN
+Configuration_Data_Collection_Mode,,Discharge
+Configuration_Averaging_Time,s,40
+Configuration_Sampling_Rate,Hz,2
+Configuration_Salinity,PSS-78,0
+Configuration_Temperature,°C,NaN
+Configuration_Sound_Speed,m/s,NaN
+Configuration_Mounting_Correction,%,0
+Configuration_Quality_Control_SNR_Threshold,dB,10
+Configuration_Quality_Control_Std_Error_Threshold,m/s,0.015
+Configuration_Quality_Control_Spike_Threshold,%,10
+Configuration_Quality_Control_Velocity_Angle_For_Warning,deg,35
+Configuration_Quality_Control_Tilt_Angle_For_Warning,deg,5
+Configuration_Discharge_Equation,,MidSection
+Configuration_Discharge_Reference,,Rated
+Configuration_Discharge_Quality_Control_Max_Station_Discharge_For_Warning,%,10
+Configuration_Discharge_Quality_Control_Max_Depth_Change_For_Warning,%,NaN
+Configuration_Discharge_Quality_Control_Max_Spacing_Change_For_Warning,%,100
+Configuration_Discharge_Velocity_Methods,,0.2/0.6/0.8

@@ -1,0 +1,22 @@
+---
+title: "Data extraction"
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
+```{r}
+cc = readLines("OU_20240312-122917.ft.sum.csv")
+all = cc[-1]
+OU20240312_122917 <- read.csv("OU_20240312-122917.ft.sum.csv", header=TRUE)
+```
+```{r}
+ggplot(data = OU20240312_122917, aes(y = Temp, x = MeasD)) + geom_point() + geom_line()
+
+OU20240312_122917 %>% ggplot(aes(y = MeasD, x = Loc, colour = Temp)) + geom_point() + theme_Publication() + scale_fill_Publication()
+
+set()
+files <- list.files(pattern = "\\.sum.csv$")
+```
+
